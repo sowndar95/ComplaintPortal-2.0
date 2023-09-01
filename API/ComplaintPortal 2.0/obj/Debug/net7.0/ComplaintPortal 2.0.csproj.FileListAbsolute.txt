@@ -136,3 +136,72 @@ C:\Users\Sowndaryan.V\New App\ComplaintPortal 2.0\ComplaintPortal 2.0\API\Compla
 C:\Users\Sowndaryan.V\New App\ComplaintPortal 2.0\ComplaintPortal 2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.pdb
 C:\Users\Sowndaryan.V\New App\ComplaintPortal 2.0\ComplaintPortal 2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.genruntimeconfig.cache
 C:\Users\Sowndaryan.V\New App\ComplaintPortal 2.0\ComplaintPortal 2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ref\ComplaintPortal 2.0.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\appsettings.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortal 2.0.exe
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortal 2.0.deps.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortal 2.0.runtimeconfig.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortal 2.0.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortal 2.0.pdb
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\MongoDbGenericRepository.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Snappier.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortalEntities.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortalServices.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortalEntities.pdb
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\bin\Debug\net7.0\ComplaintPortalServices.pdb
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.csproj.AssemblyReference.cache
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.AssemblyInfoInputs.cache
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.AssemblyInfo.cs
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets\msbuild.ComplaintPortal 2.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets\msbuild.build.ComplaintPortal 2.0.props
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ComplaintPortal 2.0.props
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ComplaintPortal 2.0.props
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\scopedcss\bundle\ComplaintPortal 2.0.styles.css
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.csproj.CopyComplete
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\refint\ComplaintPortal 2.0.dll
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.pdb
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ComplaintPortal 2.0.genruntimeconfig.cache
+C:\Users\Sowndaryan.V\New folder (2)\ComplaintPortal-2.0\API\ComplaintPortal 2.0\obj\Debug\net7.0\ref\ComplaintPortal 2.0.dll

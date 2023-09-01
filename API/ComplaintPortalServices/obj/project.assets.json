@@ -2546,11 +2546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalServices\\ComplaintPortalServices.csproj",
+      "projectUniqueName": "C:\\Users\\Sowndaryan.V\\New folder (2)\\ComplaintPortal-2.0\\API\\ComplaintPortalServices\\ComplaintPortalServices.csproj",
       "projectName": "ComplaintPortalServices",
-      "projectPath": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalServices\\ComplaintPortalServices.csproj",
+      "projectPath": "C:\\Users\\Sowndaryan.V\\New folder (2)\\ComplaintPortal-2.0\\API\\ComplaintPortalServices\\ComplaintPortalServices.csproj",
       "packagesPath": "C:\\Users\\Sowndaryan.V\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalServices\\obj\\",
+      "outputPath": "C:\\Users\\Sowndaryan.V\\New folder (2)\\ComplaintPortal-2.0\\API\\ComplaintPortalServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2570,8 +2570,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj": {
-              "projectPath": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj"
+            "C:\\Users\\Sowndaryan.V\\New folder (2)\\ComplaintPortal-2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj": {
+              "projectPath": "C:\\Users\\Sowndaryan.V\\New folder (2)\\ComplaintPortal-2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj"
             }
           }
         }
