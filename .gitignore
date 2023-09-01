@@ -123,7 +123,8 @@ ipch/
 
 # TFS 2012 Local Workspace
 $tf/
-
+# Ignore project.nuget.cache folder
+project.nuget.cache/
 # Guidance Automation Toolkit
 *.gpState
 
