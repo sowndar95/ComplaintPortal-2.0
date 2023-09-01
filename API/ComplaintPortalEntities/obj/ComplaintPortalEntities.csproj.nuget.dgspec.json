@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj",
+        "projectName": "ComplaintPortalEntities",
+        "projectPath": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\ComplaintPortalEntities.csproj",
+        "packagesPath": "C:\\Users\\Sowndaryan.V\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sowndaryan.V\\New App\\ComplaintPortal 2.0\\ComplaintPortal 2.0\\API\\ComplaintPortalEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sowndaryan.V\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
